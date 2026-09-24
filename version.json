@@ -1,6 +1,6 @@
 {
   "version": "6.0.4",
-  "url": "",
-  "sha256": "",
-  "notes": "TEST bắt buộc cập nhật AutoCOCVN v6.0.4"
+  "url": "https://github.com/thinhdn204/AutoCOCVN-Update/releases/download/v6.0.4/AutoCOCVN_6.0.4.zip",
+  "sha256": "a1b0d2ad87b2ea27035f0973298fd33f3a5c1c7a7a147ee6a3c96150e346dbca",
+  "notes": "AutoCOCVN v6.0.4"
 }
