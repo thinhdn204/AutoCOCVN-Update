@@ -1,6 +1,6 @@
 {
-  "version": "6.0.8",
-  "url": "https://github.com/thinhdn204/AutoCOCVN-Update/releases/download/v6.0.8/AutoCOCVN_6.0.8.zip",
-  "sha256": "c03ac668d460f42e393560417b722f54e56febaaf9487080bd3fc1627aad4848",
-  "notes": "AutoCOCVN v6.0.8"
+  "version": "6.0.9",
+  "url": "https://github.com/thinhdn204/AutoCOCVN-Update/releases/download/v6.0.9/AutoCOCVN_6.0.9.zip",
+  "sha256": "b1918dad57f1a435ea507e87f2bcadcda26612f681b87fe75c22e0aede9e04da",
+  "notes": "AutoCOCVN v6.0.9\n\n- Cải thiện hệ thống Làng Chính.\n- Sửa thả quân và tướng.\n- Cải thiện Pause/Resume.\n- Cập nhật Làng Đêm.\n- Sửa một số lỗi."
 }
